@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: calculator-web-app
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
